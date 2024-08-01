@@ -1,6 +1,6 @@
-MPlay is a web-based music player.
+**MPlay** is a web-based music player.
 
-## Features :
+### Features :
 
 1. Change songs
 2. Seek within tracks
